@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CartaLibre</string>
+    <string name="tittle">Carta de bebidas</string>
+    <string name="coctel">Cócteles</string>
+    <string name="martini">Martini</string>
+    <string name="precio_martini">$30k</string>
+    <string name="cuba_libre">Cuba libre</string>
+    <string name="precio_cubalibre">$10k</string>
+    <string name="mojito">Mojito</string>
+    <string name="precio_mojito">$20k</string>
+</resources>
